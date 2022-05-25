@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b19f1cbc-c453-4e47-ab2a-5c0e26235b57": {
+      "ProjectGuid": "b19f1cbc-c453-4e47-ab2a-5c0e26235b57",
+      "DisplayName": "ProyectoSegundoParcial",
+      "ColorIndex": 0
+    },
+    "f4c6b775-d594-4411-b363-cf98d1257a00": {
+      "ProjectGuid": "f4c6b775-d594-4411-b363-cf98d1257a00",
+      "DisplayName": "DXApplication1",
+      "ColorIndex": 1
+    },
+    "9cd2c89e-0b4a-4b5e-952e-e7c510b60ebf": {
+      "ProjectGuid": "9cd2c89e-0b4a-4b5e-952e-e7c510b60ebf",
+      "DisplayName": "BML",
+      "ColorIndex": 2
+    },
+    "660fbea2-bc3b-4d84-8887-0ad8378433b0": {
+      "ProjectGuid": "660fbea2-bc3b-4d84-8887-0ad8378433b0",
+      "DisplayName": "DAL",
+      "ColorIndex": 3
+    },
+    "d13fc667-7558-4c2f-b5f5-5f6abe3405c2": {
+      "ProjectGuid": "d13fc667-7558-4c2f-b5f5-5f6abe3405c2",
+      "DisplayName": "BML",
+      "ColorIndex": 4
+    },
+    "946d1d44-1616-4cec-a6fe-1b926e9af1e8": {
+      "ProjectGuid": "946d1d44-1616-4cec-a6fe-1b926e9af1e8",
+      "DisplayName": "JRD",
+      "ColorIndex": 5
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    },
+    "d7970c0f-1909-457d-9c50-2fe82b225a93": {
+      "ProjectGuid": "d7970c0f-1909-457d-9c50-2fe82b225a93",
+      "DisplayName": "BML",
+      "ColorIndex": 6
+    },
+    "ede216dd-a0cf-48ab-a5e1-787bc75c19ee": {
+      "ProjectGuid": "ede216dd-a0cf-48ab-a5e1-787bc75c19ee",
+      "DisplayName": "DAL",
+      "ColorIndex": 7
+    },
+    "c60bf75b-dc7c-4775-9221-57cd0dc87daf": {
+      "ProjectGuid": "c60bf75b-dc7c-4775-9221-57cd0dc87daf",
+      "DisplayName": "BML",
+      "ColorIndex": 8
+    },
+    "0b736893-b82f-426a-9931-ba4072a28b8a": {
+      "ProjectGuid": "0b736893-b82f-426a-9931-ba4072a28b8a",
+      "DisplayName": "BML",
+      "ColorIndex": 9
+    },
+    "f19e72f9-2ec1-4125-a05f-427eaeb902d7": {
+      "ProjectGuid": "f19e72f9-2ec1-4125-a05f-427eaeb902d7",
+      "DisplayName": "BML",
+      "ColorIndex": 10
+    },
+    "aa98e133-8059-46b6-ab96-441e712df8bb": {
+      "ProjectGuid": "aa98e133-8059-46b6-ab96-441e712df8bb",
+      "DisplayName": "DAL",
+      "ColorIndex": 11
+    },
+    "96d962bb-6914-48f5-9c5b-706ea08ddf09": {
+      "ProjectGuid": "96d962bb-6914-48f5-9c5b-706ea08ddf09",
+      "DisplayName": "JRD",
+      "ColorIndex": 12
+    },
+    "d43d0eef-86a3-4e1f-ad6e-3f3927b39467": {
+      "ProjectGuid": "d43d0eef-86a3-4e1f-ad6e-3f3927b39467",
+      "DisplayName": "1.ViewLayer",
+      "ColorIndex": 13
+    },
+    "0c9e8599-702b-405e-867d-451098e74a99": {
+      "ProjectGuid": "0c9e8599-702b-405e-867d-451098e74a99",
+      "DisplayName": "3.DataAccessLayer",
+      "ColorIndex": 14
+    },
+    "09604561-5f8a-41d1-a2bf-8dd2de7ae21f": {
+      "ProjectGuid": "09604561-5f8a-41d1-a2bf-8dd2de7ae21f",
+      "DisplayName": "2.BusinessModelLayer",
+      "ColorIndex": 15
+    }
+  },
+  "NextColorIndex": 0
+}

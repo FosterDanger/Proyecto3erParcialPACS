@@ -1,0 +1,38 @@
+              LIBRARY BIRD
+
+   **********************************
+
+Dirección:
+Bulevar Doctores #507
+Purisima del Rincon, GTO
+Tel: 476135672
+
+            Factura de Venta
+
+No Fac: V0000000013
+Fecha:25/05/2022 Hora:11:33
+Le Atendio:
+SILVESTRE DE JESUS CRUZ BARAJAS
+
+----------------------------------------
+Id Libro       Cant     P.Unit     Importe
+----------------------------------------
+54                4      1200       4800
+----------------------------------------
+ 
+Sub-Total                          4800$
+
+Menos Descuento                     336$
+
+Total                              4464$
+
+Efectivo Entregado:                4500$
+
+Efectivo Devuelto:                   36$
+
+   **********************************
+
+   *     Gracias por preferirnos    *
+
+   **********************************
+
